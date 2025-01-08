@@ -33,4 +33,5 @@ This project evaluates and compares the performance of five supervised learning 
 This project builds on the insights from:
 - Caruana, R., & Niculescu-Mizil, A. (2006). *An Empirical Comparison of Supervised Learning Algorithms*. [ICML 2006](https://doi.org/10.1145/1143844.1143865).
 
-For dataset details and code usage, see the [project paper](COGS_118A_Final_Project.pdf).
+For dataset details and code usage, see the [project paper](https://github.com/kshtwr/Evaluating-Classifiers/blob/main/COGS%20118A%20Final%20Project.pdf).
+
